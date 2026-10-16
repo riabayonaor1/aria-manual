@@ -6,6 +6,7 @@ Manual web en español sobre la construcción, tecnologías y uso del asistente 
 - **Sites:** https://aria-manual-de-usuario.rickynovich32.chatgpt.site (acceso de su propietario)
 La tarjeta QR descargable incluye el logo oficial, el slogan y un código despejado para facilitar su lectura.
 
+- **QR PDF A4:** [descargar](dist/assets/qr-manual.pdf)
 - **QR PNG:** [descargar](dist/assets/qr-manual.png)
 - **QR SVG:** [descargar](dist/assets/qr-manual.svg)
 
